@@ -1,0 +1,11 @@
+Jeruk Buah
+Apel Buah
+Tomat Buah
+
+Bayam Sayuran
+Sawi Sayuran
+Melon Buah
+
+Kopi Minuman
+Susu Minuman
+Wortel Sayuran
