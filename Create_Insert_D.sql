@@ -1,3 +1,4 @@
+#### HANYA MEMBUAT DATABASE BARU BESERTA TABEL DAN ISINYA ######
 CREATE database `kulinatest` ;
 
 USE `kulinatest`;
